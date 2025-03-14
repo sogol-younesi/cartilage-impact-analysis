@@ -1,4 +1,4 @@
-# cartilage-impact-analysis
+# Cartilage-impact-analysis
 MATLAB scripts for cartilage impact data analysis
 This MATLAB script calculates impact parameters for mechanical loading experiments on tissue samples. It processes sensor data from loadcell and acceleration measurements to extract key mechanical properties of the impact event. Additionally, it generates plots for force, pressure, acceleration, velocity, deformation, and hysteresis curves.
 # Required dependencies
